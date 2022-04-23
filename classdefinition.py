@@ -9,3 +9,6 @@ class Car:
 
 mycar = Car("Dena+", "irankhodro", 1400 )
 mycar.descriptive_message()
+mycar.model = "207i"
+mycar.year = 1398
+mycar.descriptive_message()
