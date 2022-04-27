@@ -1,0 +1,5 @@
+git diff HEAD
+git diff HEAD^
+git diff HEAD^^
+git diff HEAD~2
+git reflog
