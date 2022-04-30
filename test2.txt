@@ -2,4 +2,5 @@ line 1 :
 another file added.
 line 2 : a new line added.
 line 3 added.
-line 4 
+line 4 edited
+line 5 added 
